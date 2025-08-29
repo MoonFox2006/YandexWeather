@@ -9,4 +9,5 @@ Adafruit_GFX_Library
 В файле private.h можно прописать ваши данные, чтобы плата сразу была готова к работе после прошивки. Иначе первичная настройка доступна с помощью captive portal.
 
 Получить бесплатный для физического лица ключ Яндекс.Погоды можно по ссылке https://yandex.ru/pogoda/b2b/console/smarthome
+
 Информация о формате пакета данных: https://yandex.ru/dev/weather/doc/ru/concepts/forecast-rest
